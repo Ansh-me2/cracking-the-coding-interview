@@ -1,3 +1,8 @@
+// Reverse a given String
+// time-complexity : O(n)
+// Input : tail
+// Output : liat
+
 #include <iostream>
 #include <string.h>
 #include <stdio.h>

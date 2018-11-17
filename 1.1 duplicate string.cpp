@@ -1,3 +1,8 @@
+// Find if the given string is contains or not
+// time-complexity : O(n)
+// Input : ababccba
+// outpput : Contains duplicate
+
 #include <iostream>
 #include <string>
 
